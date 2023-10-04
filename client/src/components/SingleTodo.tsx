@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import { Todo } from "../model";
 import { AiFillEdit, AiFillDelete } from "react-icons/ai";
 import { MdOutlineDone } from "react-icons/md";
-
+// add delete
 type Props = {
   todo: Todo;
   todos: Todo[];
