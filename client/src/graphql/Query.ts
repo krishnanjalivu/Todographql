@@ -7,6 +7,8 @@ export const GET_TODOS = gql`
       done
       
     }
+    
   }
   
 `;
+//mutation to update the "done" status of a todo item
